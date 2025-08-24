@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Wuzaar Recordings — Best in the World</title>
+<meta name='description' content='Wuzaar Recordings — innovative music platform scouting and positioning young talents.'>
+<link rel='icon' href='assets/favicon.png'>
+<link rel='stylesheet' href='styles.css'>
+</head>
+<body>
+<header class='nav'>
+  <div class='nav__left'><img src='assets/wuzaar-logo.svg' class='logo'><strong>Wuzaar Recordings</strong></div>
+  <nav class='nav__links'><a href='#scouting'>Scouting</a><a href='#artists'>Artists</a><a href='#studio'>Studio</a><a href='#contact'>Contact</a></nav>
+</header>
+
+<section class='hero'>
+  <canvas id='hero3d' class='hero__canvas'></canvas>
+  <div class='container hero__content'>
+    <h1 class='headline'>Best in the World, making the Best <span class='gradient-text'>for the World.</span></h1>
+    <p class='subhead'>Official brand of Wuzaar — innovative platform scouting and positioning rising talents.</p>
+    <div class='cta-row'><a href='#artists' class='btn btn--primary'>Browse 120+ Artists</a></div>
+    <div class='hero__stats'><div class='stat'><strong id='kArtists'>0</strong><span>Artists</span></div><div class='stat'><strong id='kTracks'>0</strong><span>Tracks</span></div><div class='stat'><strong id='kEvents'>0</strong><span>Events</span></div></div>
+  </div>
+</section>
+
+<main>
+<section id='scouting' class='section section--alt'>
+  <div class='container'>
+    <h2>Talent Scouting</h2>
+    <div class='filters'>
+      <select id='genreFilter'><option>All Genres</option></select>
+      <select id='locFilter'><option>All Locations</option></select>
+      <input id='searchInput' placeholder='Search artists...'>
+    </div>
+    <div id='talentGrid' class='card-grid'></div>
+  </div>
+</section>
+
+<section id='artists' class='section'>
+  <div class='container'>
+    <h2>Artists</h2>
+    <div class='carousel' id='artistCarousel'>
+      <button id='prevArtist' class='carousel__btn'>‹</button>
+      <div class='carousel__track' id='artistTrack'></div>
+      <button id='nextArtist' class='carousel__btn'>›</button>
+    </div>
+    <div class='player'><audio id='player' src='assets/sample.wav' controls></audio></div>
+  </div>
+</section>
+
+<section id='studio' class='section section--alt'>
+  <div class='container'>
+    <h2>Wuzaar Studio</h2>
+    <div class='studio-grid'><div class='studio-card'><h4>Recording</h4></div><div class='studio-card'><h4>Mixing</h4></div><div class='studio-card'><h4>Mastering</h4></div></div>
+  </div>
+</section>
+
+<section id='contact' class='section'>
+  <div class='container'>
+    <h2>Contact</h2>
+    <form id='contactForm' class='contact-form'>
+      <label>Name<input name='name' required></label>
+      <label>Email<input name='email' type='email' required></label>
+      <label class='col-2'>Message<textarea name='message' rows='4' required></textarea></label>
+      <button class='btn btn--primary'>Send</button>
+      <p id='contactNote' class='form-note'></p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class='footer'><div class='container footer__credit'>© <span id='year'></span> Wuzaar Recordings — Built with love.</div></footer>
+
+<button class='chatfab' id='chatFab'>💬</button>
+<div class='chatbox' id='chatBox'><div class='chatbox__header'><span>Wuzaar Bot</span><button id='chatClose'>×</button></div><div class='chatbox__body' id='chatBody'><div class='bot'>Hey! Ask me anything about scouting or bookings.</div></div><form class='chatbox__input' id='chatForm'><input id='chatText' placeholder='Type message...' required><button>Send</button></form></div>
+
+<script src='https://unpkg.com/three@0.158.0/build/three.min.js'></script>
+<script src='hero-3d.js'></script>
+<script src='script.js'></script>
+</body></html>

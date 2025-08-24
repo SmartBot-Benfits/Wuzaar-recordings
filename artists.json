@@ -1,0 +1,1684 @@
+{
+  "artists": [
+    {
+      "id": "artist-001",
+      "name": "Enzo Keen",
+      "genre": "Hip Hop",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 202828,
+      "bio": "Enzo Keen is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzokeen"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-002",
+      "name": "Zin Pulse",
+      "genre": "Gospel",
+      "city": "Cape Town",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 37895,
+      "bio": "Zin Pulse is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinpulse"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-003",
+      "name": "Musa Frost",
+      "genre": "Soul",
+      "city": "Dakar",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 165908,
+      "bio": "Musa Frost is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/musafrost"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-004",
+      "name": "Amara Tide",
+      "genre": "Reggae",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 114054,
+      "bio": "Amara Tide is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amaratide"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-005",
+      "name": "Theo Sky",
+      "genre": "Soul",
+      "city": "Nairobi",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 293298,
+      "bio": "Theo Sky is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/theosky"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-006",
+      "name": "Luna Pulse",
+      "genre": "House",
+      "city": "Cape Town",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 58929,
+      "bio": "Luna Pulse is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/lunapulse"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-007",
+      "name": "Sade Keys",
+      "genre": "Pop",
+      "city": "Nairobi",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 149954,
+      "bio": "Sade Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/sadekeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-008",
+      "name": "Zin Soul",
+      "genre": "Electronic",
+      "city": "Accra",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 27709,
+      "bio": "Zin Soul is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinsoul"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-009",
+      "name": "Raye Vibe",
+      "genre": "Afrobeats",
+      "city": "Los Angeles",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 445763,
+      "bio": "Raye Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/rayevibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-010",
+      "name": "Seyi Lex",
+      "genre": "Hip Hop",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 320031,
+      "bio": "Seyi Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/seyilex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-011",
+      "name": "Sade Riot",
+      "genre": "Alt\u00e9",
+      "city": "Los Angeles",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 60238,
+      "bio": "Sade Riot is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/saderiot"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-012",
+      "name": "Bola Moon",
+      "genre": "Electronic",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 283155,
+      "bio": "Bola Moon is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/bolamoon"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-013",
+      "name": "Luna Rhythm",
+      "genre": "Afrobeats",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 41362,
+      "bio": "Luna Rhythm is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/lunarhythm"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-014",
+      "name": "Musa Keys",
+      "genre": "Reggae",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 23267,
+      "bio": "Musa Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/musakeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-015",
+      "name": "Tobi Keys",
+      "genre": "Soul",
+      "city": "Lagos",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 320153,
+      "bio": "Tobi Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tobikeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-016",
+      "name": "Ayo Wave",
+      "genre": "Pop",
+      "city": "London",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 466738,
+      "bio": "Ayo Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayowave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-017",
+      "name": "Kore Blaze",
+      "genre": "Reggae",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 285773,
+      "bio": "Kore Blaze is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/koreblaze"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-018",
+      "name": "Ife Blaze",
+      "genre": "Electronic",
+      "city": "Dakar",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 386505,
+      "bio": "Ife Blaze is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifeblaze"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-019",
+      "name": "Nate Drift",
+      "genre": "Gospel",
+      "city": "Nairobi",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 164348,
+      "bio": "Nate Drift is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/natedrift"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-020",
+      "name": "Olu Vibe",
+      "genre": "Soul",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 402431,
+      "bio": "Olu Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/oluvibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-021",
+      "name": "Femi Star",
+      "genre": "Amapiano",
+      "city": "New York",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 369257,
+      "bio": "Femi Star is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/femistar"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-022",
+      "name": "Zin Rhythm",
+      "genre": "Alt\u00e9",
+      "city": "Accra",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 163469,
+      "bio": "Zin Rhythm is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinrhythm"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-023",
+      "name": "Enzo Blaze",
+      "genre": "Amapiano",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 443650,
+      "bio": "Enzo Blaze is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzoblaze"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-024",
+      "name": "Enzo Onu",
+      "genre": "Afropop",
+      "city": "London",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 233226,
+      "bio": "Enzo Onu is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzoonu"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-025",
+      "name": "Femi Silk",
+      "genre": "Gospel",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 117773,
+      "bio": "Femi Silk is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/femisilk"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-026",
+      "name": "Nate Star",
+      "genre": "R&B",
+      "city": "Los Angeles",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 117908,
+      "bio": "Nate Star is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/natestar"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-027",
+      "name": "Sade Nova",
+      "genre": "Dancehall",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 412480,
+      "bio": "Sade Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/sadenova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-028",
+      "name": "Luna Riot",
+      "genre": "Gospel",
+      "city": "Dakar",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 257970,
+      "bio": "Luna Riot is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/lunariot"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-029",
+      "name": "Ayo Shade",
+      "genre": "Alt\u00e9",
+      "city": "Dakar",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 5901,
+      "bio": "Ayo Shade is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayoshade"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-030",
+      "name": "Ife Keen",
+      "genre": "Amapiano",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 475938,
+      "bio": "Ife Keen is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifekeen"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-031",
+      "name": "Theo Onu",
+      "genre": "Amapiano",
+      "city": "Cape Town",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 377910,
+      "bio": "Theo Onu is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/theoonu"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-032",
+      "name": "Zin Drift",
+      "genre": "R&B",
+      "city": "New York",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 449443,
+      "bio": "Zin Drift is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zindrift"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-033",
+      "name": "Maya Onu",
+      "genre": "Afrofusion",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 382240,
+      "bio": "Maya Onu is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/mayaonu"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-034",
+      "name": "Zin Rex",
+      "genre": "House",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 190417,
+      "bio": "Zin Rex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinrex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-035",
+      "name": "Ayo Onu",
+      "genre": "R&B",
+      "city": "Kano",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 287601,
+      "bio": "Ayo Onu is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayoonu"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-036",
+      "name": "Musa Mandem",
+      "genre": "Reggae",
+      "city": "Accra",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 419939,
+      "bio": "Musa Mandem is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/musamandem"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-037",
+      "name": "Raye Crown",
+      "genre": "Reggae",
+      "city": "Nairobi",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 19730,
+      "bio": "Raye Crown is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/rayecrown"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-038",
+      "name": "Zin Mandem",
+      "genre": "Gospel",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 219934,
+      "bio": "Zin Mandem is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinmandem"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-039",
+      "name": "Luna Lex",
+      "genre": "Afrofusion",
+      "city": "Accra",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 430345,
+      "bio": "Luna Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/lunalex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-040",
+      "name": "Maya Kez",
+      "genre": "Reggae",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 345268,
+      "bio": "Maya Kez is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/mayakez"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-041",
+      "name": "Sade Sky",
+      "genre": "Amapiano",
+      "city": "Dakar",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 337197,
+      "bio": "Sade Sky is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/sadesky"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-042",
+      "name": "Kofi Wave",
+      "genre": "Afropop",
+      "city": "Lagos",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 329249,
+      "bio": "Kofi Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/kofiwave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-043",
+      "name": "Theo Wave",
+      "genre": "Pop",
+      "city": "Paris",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 154064,
+      "bio": "Theo Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/theowave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-044",
+      "name": "Nia Shade",
+      "genre": "Reggae",
+      "city": "Abuja",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 253074,
+      "bio": "Nia Shade is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/niashade"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-045",
+      "name": "Amara Mandem",
+      "genre": "Afropop",
+      "city": "Lagos",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 193437,
+      "bio": "Amara Mandem is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amaramandem"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-046",
+      "name": "Femi Rhythm",
+      "genre": "Afrobeats",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 322931,
+      "bio": "Femi Rhythm is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/femirhythm"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-047",
+      "name": "Raye Blaze",
+      "genre": "Amapiano",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 317736,
+      "bio": "Raye Blaze is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/rayeblaze"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-048",
+      "name": "Nia Tide",
+      "genre": "Alt\u00e9",
+      "city": "Nairobi",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 171540,
+      "bio": "Nia Tide is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/niatide"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-049",
+      "name": "Zara Star",
+      "genre": "Gospel",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 368085,
+      "bio": "Zara Star is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zarastar"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-050",
+      "name": "Femi Beat",
+      "genre": "Afrofusion",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 232278,
+      "bio": "Femi Beat is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/femibeat"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-051",
+      "name": "Zin Nova",
+      "genre": "Pop",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 162837,
+      "bio": "Zin Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinnova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-052",
+      "name": "Rico Sky",
+      "genre": "Soul",
+      "city": "Paris",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 304016,
+      "bio": "Rico Sky is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ricosky"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-053",
+      "name": "Kore Crown",
+      "genre": "Electronic",
+      "city": "Paris",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 362430,
+      "bio": "Kore Crown is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/korecrown"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-054",
+      "name": "Rico Vibe",
+      "genre": "Gospel",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 352089,
+      "bio": "Rico Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ricovibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-055",
+      "name": "Ade Blaze",
+      "genre": "Dancehall",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 162438,
+      "bio": "Ade Blaze is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/adeblaze"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-056",
+      "name": "Ife Beat",
+      "genre": "Reggae",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 295738,
+      "bio": "Ife Beat is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifebeat"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-057",
+      "name": "Ayo Lex",
+      "genre": "Afrofusion",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 488888,
+      "bio": "Ayo Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayolex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-058",
+      "name": "Nia Vibe",
+      "genre": "Afrobeats",
+      "city": "Nairobi",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 454715,
+      "bio": "Nia Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/niavibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-059",
+      "name": "Amara Rex",
+      "genre": "R&B",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 380941,
+      "bio": "Amara Rex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amararex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-060",
+      "name": "Bola Keen",
+      "genre": "Soul",
+      "city": "New York",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 32232,
+      "bio": "Bola Keen is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/bolakeen"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-061",
+      "name": "Nia Silk",
+      "genre": "Reggae",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 281305,
+      "bio": "Nia Silk is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/niasilk"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-062",
+      "name": "Enzo Onu",
+      "genre": "Gospel",
+      "city": "New York",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 368332,
+      "bio": "Enzo Onu is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzoonu"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-063",
+      "name": "Ade Keys",
+      "genre": "Afropop",
+      "city": "Los Angeles",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 415043,
+      "bio": "Ade Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/adekeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-064",
+      "name": "Tola Wave",
+      "genre": "Hip Hop",
+      "city": "Abuja",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 337604,
+      "bio": "Tola Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tolawave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-065",
+      "name": "Kemi Frost",
+      "genre": "Afrofusion",
+      "city": "Accra",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 70480,
+      "bio": "Kemi Frost is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/kemifrost"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-066",
+      "name": "Ife Beat",
+      "genre": "Reggae",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 247496,
+      "bio": "Ife Beat is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifebeat"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-067",
+      "name": "Maya Onu",
+      "genre": "House",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 342049,
+      "bio": "Maya Onu is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/mayaonu"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-068",
+      "name": "Ayo Sky",
+      "genre": "Reggae",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 262567,
+      "bio": "Ayo Sky is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayosky"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-069",
+      "name": "Sade Keen",
+      "genre": "R&B",
+      "city": "London",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 181027,
+      "bio": "Sade Keen is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/sadekeen"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-070",
+      "name": "Ayo Keys",
+      "genre": "Afropop",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 191883,
+      "bio": "Ayo Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayokeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-071",
+      "name": "Maya Kez",
+      "genre": "House",
+      "city": "Kano",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 299772,
+      "bio": "Maya Kez is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/mayakez"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-072",
+      "name": "Olu Wave",
+      "genre": "Reggae",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 252772,
+      "bio": "Olu Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/oluwave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-073",
+      "name": "Zin Vibe",
+      "genre": "Soul",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 146708,
+      "bio": "Zin Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zinvibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-074",
+      "name": "Seyi Nova",
+      "genre": "Electronic",
+      "city": "Dakar",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 462036,
+      "bio": "Seyi Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/seyinova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-075",
+      "name": "Amara Nova",
+      "genre": "House",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 398507,
+      "bio": "Amara Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amaranova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-076",
+      "name": "Luna Soul",
+      "genre": "Alt\u00e9",
+      "city": "Paris",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 316461,
+      "bio": "Luna Soul is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/lunasoul"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-077",
+      "name": "Sade Keen",
+      "genre": "Electronic",
+      "city": "Nairobi",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 147884,
+      "bio": "Sade Keen is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/sadekeen"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-078",
+      "name": "Theo Vibe",
+      "genre": "Gospel",
+      "city": "Cape Town",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 305757,
+      "bio": "Theo Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/theovibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-079",
+      "name": "Olu Rhythm",
+      "genre": "House",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 83894,
+      "bio": "Olu Rhythm is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/olurhythm"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-080",
+      "name": "Seyi Lex",
+      "genre": "Soul",
+      "city": "London",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 21095,
+      "bio": "Seyi Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/seyilex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-081",
+      "name": "Sade Soul",
+      "genre": "R&B",
+      "city": "Paris",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 216190,
+      "bio": "Sade Soul is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/sadesoul"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-082",
+      "name": "Enzo Moon",
+      "genre": "Amapiano",
+      "city": "Lagos",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 137518,
+      "bio": "Enzo Moon is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzomoon"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-083",
+      "name": "Rico Moon",
+      "genre": "R&B",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 104771,
+      "bio": "Rico Moon is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ricomoon"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-084",
+      "name": "Ade Nova",
+      "genre": "Afrobeats",
+      "city": "Lagos",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 42416,
+      "bio": "Ade Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/adenova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-085",
+      "name": "Rico Mandem",
+      "genre": "Afrobeats",
+      "city": "Dakar",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 29006,
+      "bio": "Rico Mandem is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ricomandem"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-086",
+      "name": "Musa Shade",
+      "genre": "Afropop",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 390356,
+      "bio": "Musa Shade is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/musashade"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-087",
+      "name": "Ade Wave",
+      "genre": "Alt\u00e9",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 169669,
+      "bio": "Ade Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/adewave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-088",
+      "name": "Tola Rex",
+      "genre": "Pop",
+      "city": "Abuja",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 239703,
+      "bio": "Tola Rex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tolarex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-089",
+      "name": "Luna Wave",
+      "genre": "Reggae",
+      "city": "Kano",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 406305,
+      "bio": "Luna Wave is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/lunawave"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-090",
+      "name": "Kofi Beat",
+      "genre": "Afrobeats",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 206983,
+      "bio": "Kofi Beat is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/kofibeat"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-091",
+      "name": "Theo Riot",
+      "genre": "Afropop",
+      "city": "Nairobi",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 73068,
+      "bio": "Theo Riot is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/theoriot"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-092",
+      "name": "Tola Frost",
+      "genre": "Soul",
+      "city": "Dakar",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 492445,
+      "bio": "Tola Frost is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tolafrost"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-093",
+      "name": "Amara Soul",
+      "genre": "R&B",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 49885,
+      "bio": "Amara Soul is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amarasoul"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-094",
+      "name": "Enzo Keys",
+      "genre": "Soul",
+      "city": "New York",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 394764,
+      "bio": "Enzo Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzokeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-095",
+      "name": "Enzo Kez",
+      "genre": "Amapiano",
+      "city": "Abuja",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 415238,
+      "bio": "Enzo Kez is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/enzokez"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-096",
+      "name": "Nate Vibe",
+      "genre": "Hip Hop",
+      "city": "New York",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 378287,
+      "bio": "Nate Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/natevibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-097",
+      "name": "Ife Keys",
+      "genre": "Pop",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 247857,
+      "bio": "Ife Keys is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifekeys"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-098",
+      "name": "Rico Nova",
+      "genre": "Reggae",
+      "city": "Abuja",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 299412,
+      "bio": "Rico Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/riconova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-099",
+      "name": "Zara Silk",
+      "genre": "Electronic",
+      "city": "New York",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 439874,
+      "bio": "Zara Silk is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zarasilk"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-100",
+      "name": "Amara Lex",
+      "genre": "Afrofusion",
+      "city": "Abuja",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 397951,
+      "bio": "Amara Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amaralex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-101",
+      "name": "Tobi Crown",
+      "genre": "R&B",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 377853,
+      "bio": "Tobi Crown is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tobicrown"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-102",
+      "name": "Tola Star",
+      "genre": "Gospel",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 316003,
+      "bio": "Tola Star is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tolastar"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-103",
+      "name": "Zara Keen",
+      "genre": "R&B",
+      "city": "London",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 449824,
+      "bio": "Zara Keen is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zarakeen"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-104",
+      "name": "Raye Mandem",
+      "genre": "Alt\u00e9",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 187286,
+      "bio": "Raye Mandem is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/rayemandem"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-105",
+      "name": "Nate Shade",
+      "genre": "Afropop",
+      "city": "Johannesburg",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 280870,
+      "bio": "Nate Shade is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/nateshade"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-106",
+      "name": "Maya Silk",
+      "genre": "Afrobeats",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 437036,
+      "bio": "Maya Silk is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/mayasilk"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-107",
+      "name": "Bola Nova",
+      "genre": "Amapiano",
+      "city": "Abuja",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 441282,
+      "bio": "Bola Nova is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/bolanova"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-108",
+      "name": "Kemi Lex",
+      "genre": "Dancehall",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 414347,
+      "bio": "Kemi Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/kemilex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-109",
+      "name": "Tola Rhythm",
+      "genre": "Afropop",
+      "city": "Accra",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 380182,
+      "bio": "Tola Rhythm is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tolarhythm"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-110",
+      "name": "Ife Star",
+      "genre": "Afrobeats",
+      "city": "London",
+      "status": "Academy",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 8557,
+      "bio": "Ife Star is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifestar"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-111",
+      "name": "Amara Sky",
+      "genre": "Electronic",
+      "city": "Paris",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 150581,
+      "bio": "Amara Sky is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/amarasky"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-112",
+      "name": "Musa Shade",
+      "genre": "Electronic",
+      "city": "Johannesburg",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 120672,
+      "bio": "Musa Shade is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/musashade"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-113",
+      "name": "Theo Rex",
+      "genre": "Afrobeats",
+      "city": "Dakar",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 446815,
+      "bio": "Theo Rex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/theorex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-114",
+      "name": "Raye Rex",
+      "genre": "Amapiano",
+      "city": "Paris",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 304300,
+      "bio": "Raye Rex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/rayerex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-115",
+      "name": "Ayo Vibe",
+      "genre": "Dancehall",
+      "city": "London",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 378818,
+      "bio": "Ayo Vibe is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayovibe"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-116",
+      "name": "Ayo Blaze",
+      "genre": "Afrobeats",
+      "city": "Accra",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 240719,
+      "bio": "Ayo Blaze is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ayoblaze"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-117",
+      "name": "Tola Lex",
+      "genre": "R&B",
+      "city": "Lagos",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 18444,
+      "bio": "Tola Lex is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/tolalex"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-118",
+      "name": "Rico Soul",
+      "genre": "Hip Hop",
+      "city": "Los Angeles",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 448119,
+      "bio": "Rico Soul is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ricosoul"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-119",
+      "name": "Zara Beat",
+      "genre": "Alt\u00e9",
+      "city": "Lagos",
+      "status": "Wuzaar Artist",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 45700,
+      "bio": "Zara Beat is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/zarabeat"
+      },
+      "sample": "assets/sample.wav"
+    },
+    {
+      "id": "artist-120",
+      "name": "Ife Soul",
+      "genre": "Soul",
+      "city": "Abuja",
+      "status": "Unsigned",
+      "image": "assets/artist-1.svg",
+      "monthly_listeners": 160446,
+      "bio": "Ife Soul is an emerging artist with a fresh sound.",
+      "socials": {
+        "instagram": "https://instagram.com/ifesoul"
+      },
+      "sample": "assets/sample.wav"
+    }
+  ]
+}
